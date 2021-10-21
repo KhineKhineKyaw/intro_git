@@ -6,3 +6,4 @@ Git の練習をしていきます。
 ・git status
 ・git diff
 ・git commit
+・git merge
